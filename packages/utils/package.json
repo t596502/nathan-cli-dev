@@ -1,7 +1,7 @@
 {
   "name": "@nathan-cli-dev/utils",
-  "version": "1.0.4",
-  "description": "> TODO: description",
+  "version": "1.0.6",
+  "description": "@nathan-cli-dev utils",
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
   "license": "ISC",
