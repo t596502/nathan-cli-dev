@@ -1,6 +1,6 @@
 {
   "name": "@nathan-cli-dev/core",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "nathan-cli-dev core",
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"run tests from core\""
   },
   "dependencies": {
-    "@nathan-cli-dev/utils": "^1.0.8"
+    "@nathan-cli-dev/utils": "^1.0.9"
   },
   "gitHead": "1bb7322fd715a4ea2023d588a975b94a3c8b6137",
   "publishConfig": {
