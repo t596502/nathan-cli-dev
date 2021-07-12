@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "@nathan-cli-dev/utils": "^1.0.1"
+  },
+  "gitHead": "1bb7322fd715a4ea2023d588a975b94a3c8b6137",
+  "publishConfig": {
+    "access": "public"
   }
 }
