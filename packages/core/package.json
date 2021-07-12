@@ -1,0 +1,22 @@
+{
+  "name": "@nathan-cli-dev/core",
+  "version": "1.0.0",
+  "description": "nathan-cli-dev core",
+  "author": "Nathan Tai <nathantai@outlook.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run tests from core\""
+  },
+  "dependencies": {
+    "@nathan-cli-dev/utils":"^1.0.0"
+  }
+}
