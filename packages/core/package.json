@@ -1,13 +1,13 @@
 {
   "name": "@nathan-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nathan-cli-dev core",
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "nathan-cli-dev":"bin/index.js"
+    "nathan-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
