@@ -1,6 +1,6 @@
 {
   "name": "@nathan-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"run tests from utils\""
-  },
-  "dependencies": {
   }
 }
