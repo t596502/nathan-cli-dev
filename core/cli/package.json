@@ -5,7 +5,7 @@
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "",
   "bin": {
     "nathan-cli-dev": "bin/index.js"
   },
@@ -20,7 +20,18 @@
     "test": "echo \"run tests from core\""
   },
   "dependencies": {
-    "@nathan-cli-dev/utils": "^1.0.9"
+    "@nathan-cli-dev/log": "file:../../utils/log",
+    "@nathan-cli-dev/utils": "file:../../utils/utils",
+    "@nathan-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "import-local": "^3.0.2",
+    "minimist": "^1.2.5",
+    "npmlog": "^5.0.0",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   },
   "gitHead": "1bb7322fd715a4ea2023d588a975b94a3c8b6137",
   "publishConfig": {
