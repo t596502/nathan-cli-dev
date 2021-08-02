@@ -1,6 +1,6 @@
 {
   "name": "@nathan-cli-dev/core",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "nathan-cli-dev core",
   "author": "Nathan Tai <nathantai@outlook.com>",
   "homepage": "",
@@ -20,9 +20,9 @@
     "test": "echo \"run tests from core\""
   },
   "dependencies": {
+    "@nathan-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
     "@nathan-cli-dev/log": "file:../../utils/log",
     "@nathan-cli-dev/utils": "file:../../utils/utils",
-    "@nathan-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "import-local": "^3.0.2",
